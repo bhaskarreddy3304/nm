@@ -1,5 +1,5 @@
 streamlit==1.31.1
-torch==2.1.2
+
 transformers==4.36.2
 sentence-transformers==2.2.2
 
@@ -9,3 +9,4 @@ langchain-text-splitters==0.0.1
 
 faiss-cpu==1.7.4
 pypdf==3.17.1
+

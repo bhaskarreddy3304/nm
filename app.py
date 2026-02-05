@@ -1,5 +1,4 @@
 import streamlit as st
-import torch
 from pypdf import PdfReader
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter

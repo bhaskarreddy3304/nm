@@ -1,4 +1,6 @@
 import streamlit as st
+import langchain.chains
+
 from pypdf import PdfReader
 
 
